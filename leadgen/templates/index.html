@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Flask Celery Task Manager</title>
+</head>
+<body>
+<ul>
+    <li><a href="{{ url_for('home.taskstatus', task_id=task.id) }}">{{ link }}</a></li>
+    <li>{{ task }}</li>
+    <li>{{ eta }}</li>
+</ul>
+</body>
+</html>
