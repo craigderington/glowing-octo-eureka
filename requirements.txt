@@ -49,7 +49,7 @@ py-backwards==0.7
 py-backwards-astunparse==1.5.0.post3
 pycodestyle==2.4.0
 pyee==5.0.0
-Pygments==2.2.0
+Pygments==2.7.4
 PyMySQL==0.7.11
 pyppeteer==0.0.17
 pyquery==1.4.0
