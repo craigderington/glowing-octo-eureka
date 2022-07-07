@@ -55,7 +55,7 @@ pyppeteer==0.0.17
 pyquery==1.4.0
 pytz==2017.2
 redis==2.10.5
-requests==2.1.0
+requests==2.20.0
 requests-html==0.6.6
 selenium==2.45.0
 simplegeneric==0.8.1
